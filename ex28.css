@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color: gray;
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#um{
+    border: 3px solid red;
+
+}
